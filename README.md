@@ -45,4 +45,35 @@ Automated email alert system using Google Sheets and Google Apps Script to notif
 ---
 
 ## 📩 Sample Email
+Hello [Name],
 
+Your meal account balance is below 100 TAKA.
+Your current Balance (BDT): [Amount]
+
+Please add money to continue your meal.
+
+Regards,
+Management
+
+---
+
+## 🔒 Notes
+
+- No personal or real user data is included in this repository
+- Sample ranges and logic are provided for demonstration purposes
+- The project is fully cloud-based and does not depend on user devices
+
+---
+
+## 📌 Use Cases
+
+- Meal management systems
+- Subscription balance alerts
+- Account monitoring
+- Small business automation
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
