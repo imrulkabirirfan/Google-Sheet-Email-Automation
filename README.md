@@ -77,3 +77,11 @@ Management
 ## 📄 License
 
 This project is licensed under the MIT License.
+## 📸 Demo
+
+### Google Sheet
+![Sheet](screenshots/sheet.png)
+
+### Email Alert
+![Email](screenshots/email.png)
+
